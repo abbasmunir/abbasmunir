@@ -21,7 +21,7 @@ I am a detail-oriented developer bridging the gap between technical execution an
 - 🏗️ **Building:** Exploring the intersection of social entrepreneurship and technology.
 - 🔐 **Focus:** Deep diving into **LGPD** (Data Protection) and performance optimization.
 - 🤖 **Learning:** Advancing my skills in recursion, algorithms, and complex system architecture.
-
+- 🌎 **Languages:** I can speak english fluently, basic spanish and brazilian portuguese is my mother language.
 ---
 
 ### 🛠️ Tech Stack & Tools
