@@ -52,4 +52,6 @@ I am a detail-oriented developer bridging the gap between technical execution an
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/munirabbas/"><img src="
+<a href="https://www.linkedin.com/in/munirabbas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:munir.youssef.abbas@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
