@@ -45,7 +45,6 @@ I am a detail-oriented developer bridging the gap between technical execution an
 - 🕹️ **Fighting Games:** Definitely a **Tekken** guy at heart, but I never turn down a challenge in *Mortal Kombat* or *Street Fighter*.
 - 🎧 **Music:** I listen to just about everything, though **Synthpop** and **Rock** definitely own my heart.
 - 💡 **Innovation:** Always brainstorming ways to leverage technology for social impact.
-- ⚡ **Fun Fact:** I believe code should be as clean as a perfect 10-hit combo—fluid, intentional, and effective.
 
 ---
 
