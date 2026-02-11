@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Munir! 👋
 
-<!--
-**abbasmunir/abbasmunir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineering Student & System Development Technician
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bulma](https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a detail-oriented developer currently bridging the gap between technical execution and high-level software design. With a foundation as a **System Development Technician** and an ongoing **Degree in Software Engineering**, I focus on building efficient, scalable solutions while constantly expanding my stack.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, Java
+- **Frontend/Design:** HTML5, CSS3, Bulma
+- **Data & Logic:** Boolean Algebra, CSV/Data Management, SQL
+- **Core Concepts:** Operating Systems, Concurrency, Mathematical Logic
+
+---
+
+## 📈 My Current Journey
+
+- 🎓 **Education:** Pursuing a B.S. in Software Engineering.
+- 🏗️ **Building:** Exploring the intersection of social entrepreneurship and technology.
+- 🔐 **Focus:** Deep diving into LGPD (Data Protection) and system performance optimization.
+- 🤖 **Learning:** Advancing my skills in recursion, algorithms, and complex system architecture.
+
+---
+
+## 🎮 Beyond the Code
+
+When I'm not debugging or studying Operating Systems, you can find me:
+- 🕹️ **Fighting Games:** More of a Tekken guy but i don't turn down some MK or SF
+- 🎧 **Music:** All from everywhere...(synthpop and rock own my heart tho)
+- 💡 **Innovation:** Brainstorming ways to use technology for social impact.
+
+--
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/munirabbas/)
+- 📧 [Email](munir.youssef.abbas@gmail.com)
