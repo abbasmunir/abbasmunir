@@ -2,9 +2,9 @@
 
 ### 🚀 Software Engineering Student & System Development Technician
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bulma](https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  🐍 Python | ⚡ JavaScript | 🛡️ Bulma CSS | 💾 SQL | 🕹️ Fighting Games | 🎧 Music Addict
+</marquee>
 
 I am a detail-oriented developer currently bridging the gap between technical execution and high-level software design. With a foundation as a **System Development Technician** and an ongoing **Degree in Software Engineering**, I focus on building efficient, scalable solutions while constantly expanding my stack.
 
